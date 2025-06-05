@@ -1,0 +1,208 @@
+{
+  "repositories": {
+    "Predicting-Heart-Disease": {
+      "category": "Machine Learning & Deep Learning",
+      "description": "Predicts heart disease from patient data using ML models",
+      "language": "Jupyter Notebook",
+      "html_url": "https://github.com/Ocalak/Predicting-Heart-Disease",
+      "updated_at": "2025-04-11T06:14:32Z",
+      "created_at": "2025-04-11T04:03:09Z"
+    },
+    "FeedForward-Neural-Network": {
+      "category": "Machine Learning & Deep Learning",
+      "description": "FFNN for time-series electricity forecasting",
+      "language": "Python",
+      "html_url": "https://github.com/Ocalak/FeedForward-Neural-Network",
+      "updated_at": "2025-04-08T19:36:31Z",
+      "created_at": "2025-04-08T19:04:26Z"
+    },
+    "kion-group-dashboard": {
+      "category": "Dashboards & Web Apps",
+      "description": "Business dashboard with FastAPI + React",
+      "language": "HTML",
+      "html_url": "https://github.com/Ocalak/kion-group-dashboard",
+      "updated_at": "2025-04-04T09:37:51Z",
+      "created_at": "2025-04-04T09:21:48Z"
+    },
+    "student-data-ai-assistant": {
+      "category": "Machine Learning & Deep Learning",
+      "description": "Chatbot using LangChain for analyzing student data",
+      "language": "JavaScript",
+      "html_url": "https://github.com/Ocalak/student-data-ai-assistant",
+      "updated_at": "2025-04-02T12:56:47Z",
+      "created_at": "2025-04-02T12:32:39Z"
+    },
+    "chemistry-dataset-analysis": {
+      "category": "Data Analysis",
+      "description": "EDA on chemical dataset using pandas, matplotlib, seaborn",
+      "language": "HTML",
+      "html_url": "https://github.com/Ocalak/chemistry-dataset-analysis",
+      "updated_at": "2025-03-29T12:36:17Z",
+      "created_at": "2025-03-26T11:03:28Z"
+    },
+    "Trading-Bot-SOL-": {
+      "category": "Financial Applications",
+      "description": "Solana-based trading bot (automated strategy)",
+      "language": "Python",
+      "html_url": "https://github.com/Ocalak/Trading-Bot-SOL-",
+      "updated_at": "2025-02-02T15:37:22Z",
+      "created_at": "2025-01-29T11:25:56Z"
+    },
+    "personal_assistant": {
+      "category": "Machine Learning & Deep Learning",
+      "description": "CLI/GUI assistant with tasks like weather, search, reminders",
+      "language": null,
+      "html_url": "https://github.com/Ocalak/personal_assistant",
+      "updated_at": "2025-02-20T16:31:22Z",
+      "created_at": "2025-02-20T16:31:22Z"
+    },
+    "EconometricsWithR": {
+      "category": "Econometrics & Statistics",
+      "description": "R code for time series, panel data, and simulations",
+      "language": "R",
+      "html_url": "https://github.com/Ocalak/EconometricsWithR",
+      "updated_at": "2023-06-12T09:41:14Z",
+      "created_at": "2023-04-19T11:03:23Z"
+    },
+    "Forecasting-Bitcoin": {
+      "category": "Financial Applications",
+      "description": "Time-series forecasting of BTC using ML",
+      "language": "R",
+      "html_url": "https://github.com/Ocalak/Forecasting-Bitcoin",
+      "updated_at": "2023-07-28T12:37:42Z",
+      "created_at": "2023-07-28T12:37:17Z"
+    },
+    "Application-of-the-copula-GARCH-model-to-commodity-price-time-series": {
+      "category": "Financial Applications",
+      "description": "Copula-GARCH for commodity price risk modeling",
+      "language": "R",
+      "html_url": "https://github.com/Ocalak/Application-of-the-copula-GARCH-model-to-commodity-price-time-series",
+      "updated_at": "2023-07-28T12:41:53Z",
+      "created_at": "2023-07-28T12:40:19Z"
+    },
+    "MonteCarloSimulation": {
+      "category": "Econometrics & Statistics",
+      "description": "Monte Carlo models in Python",
+      "language": "R",
+      "html_url": "https://github.com/Ocalak/MonteCarloSimulation",
+      "updated_at": "2023-12-05T08:48:41Z",
+      "created_at": "2022-07-14T14:03:06Z"
+    },
+    "Rental-House-Portal-FastAPI-React-Postgres-AWS-": {
+      "category": "Dashboards & Web Apps",
+      "description": "Full app with cloud deployment (great for showing engineering ability)",
+      "language": "HTML",
+      "html_url": "https://github.com/Ocalak/Rental-House-Portal-FastAPI-React-Postgres-AWS-",
+      "updated_at": "2023-04-03T11:06:24Z",
+      "created_at": "2023-01-12T23:32:00Z"
+    }
+  },
+  "categories": {
+    "Machine Learning & Deep Learning": [
+      {
+        "name": "Predicting-Heart-Disease",
+        "description": "Predicts heart disease from patient data using ML models",
+        "language": "Jupyter Notebook",
+        "html_url": "https://github.com/Ocalak/Predicting-Heart-Disease",
+        "updated_at": "2025-04-11T06:14:32Z",
+        "created_at": "2025-04-11T04:03:09Z"
+      },
+      {
+        "name": "FeedForward-Neural-Network",
+        "description": "FFNN for time-series electricity forecasting",
+        "language": "Python",
+        "html_url": "https://github.com/Ocalak/FeedForward-Neural-Network",
+        "updated_at": "2025-04-08T19:36:31Z",
+        "created_at": "2025-04-08T19:04:26Z"
+      },
+      {
+        "name": "student-data-ai-assistant",
+        "description": "Chatbot using LangChain for analyzing student data",
+        "language": "JavaScript",
+        "html_url": "https://github.com/Ocalak/student-data-ai-assistant",
+        "updated_at": "2025-04-02T12:56:47Z",
+        "created_at": "2025-04-02T12:32:39Z"
+      },
+      {
+        "name": "personal_assistant",
+        "description": "CLI/GUI assistant with tasks like weather, search, reminders",
+        "language": null,
+        "html_url": "https://github.com/Ocalak/personal_assistant",
+        "updated_at": "2025-02-20T16:31:22Z",
+        "created_at": "2025-02-20T16:31:22Z"
+      }
+    ],
+    "Dashboards & Web Apps": [
+      {
+        "name": "kion-group-dashboard",
+        "description": "Business dashboard with FastAPI + React",
+        "language": "HTML",
+        "html_url": "https://github.com/Ocalak/kion-group-dashboard",
+        "updated_at": "2025-04-04T09:37:51Z",
+        "created_at": "2025-04-04T09:21:48Z"
+      },
+      {
+        "name": "Rental-House-Portal-FastAPI-React-Postgres-AWS-",
+        "description": "Full app with cloud deployment (great for showing engineering ability)",
+        "language": "HTML",
+        "html_url": "https://github.com/Ocalak/Rental-House-Portal-FastAPI-React-Postgres-AWS-",
+        "updated_at": "2023-04-03T11:06:24Z",
+        "created_at": "2023-01-12T23:32:00Z"
+      }
+    ],
+    "Data Analysis": [
+      {
+        "name": "chemistry-dataset-analysis",
+        "description": "EDA on chemical dataset using pandas, matplotlib, seaborn",
+        "language": "HTML",
+        "html_url": "https://github.com/Ocalak/chemistry-dataset-analysis",
+        "updated_at": "2025-03-29T12:36:17Z",
+        "created_at": "2025-03-26T11:03:28Z"
+      }
+    ],
+    "Financial Applications": [
+      {
+        "name": "Trading-Bot-SOL-",
+        "description": "Solana-based trading bot (automated strategy)",
+        "language": "Python",
+        "html_url": "https://github.com/Ocalak/Trading-Bot-SOL-",
+        "updated_at": "2025-02-02T15:37:22Z",
+        "created_at": "2025-01-29T11:25:56Z"
+      },
+      {
+        "name": "Forecasting-Bitcoin",
+        "description": "Time-series forecasting of BTC using ML",
+        "language": "R",
+        "html_url": "https://github.com/Ocalak/Forecasting-Bitcoin",
+        "updated_at": "2023-07-28T12:37:42Z",
+        "created_at": "2023-07-28T12:37:17Z"
+      },
+      {
+        "name": "Application-of-the-copula-GARCH-model-to-commodity-price-time-series",
+        "description": "Copula-GARCH for commodity price risk modeling",
+        "language": "R",
+        "html_url": "https://github.com/Ocalak/Application-of-the-copula-GARCH-model-to-commodity-price-time-series",
+        "updated_at": "2023-07-28T12:41:53Z",
+        "created_at": "2023-07-28T12:40:19Z"
+      }
+    ],
+    "Econometrics & Statistics": [
+      {
+        "name": "EconometricsWithR",
+        "description": "R code for time series, panel data, and simulations",
+        "language": "R",
+        "html_url": "https://github.com/Ocalak/EconometricsWithR",
+        "updated_at": "2023-06-12T09:41:14Z",
+        "created_at": "2023-04-19T11:03:23Z"
+      },
+      {
+        "name": "MonteCarloSimulation",
+        "description": "Monte Carlo models in Python",
+        "language": "R",
+        "html_url": "https://github.com/Ocalak/MonteCarloSimulation",
+        "updated_at": "2023-12-05T08:48:41Z",
+        "created_at": "2022-07-14T14:03:06Z"
+      }
+    ]
+  }
+}
